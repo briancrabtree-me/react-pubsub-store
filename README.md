@@ -1,6 +1,6 @@
 # react-pubsub-store
 
-Minimal **pub/sub external store** for React 19 using [`useSyncExternalStore`](https://react.dev/reference/react/useSyncExternalStore). No Zustand, no signals package — just TypeScript and React.
+Minimal **pub/sub external store** for React 19 using [`useSyncExternalStore`](https://react.dev/reference/react/useSyncExternalStore). No Zustand, no signals package — just TypeScript and React. README shields use brand hex `#ccff00`.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-ccff00?style=flat-square)](LICENSE)
 [![React 19](https://img.shields.io/badge/React-19-ccff00?style=flat-square)](https://react.dev/)
