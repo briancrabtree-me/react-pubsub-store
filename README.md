@@ -2,8 +2,10 @@
 
 Minimal **pub/sub external store** for React 19 using [`useSyncExternalStore`](https://react.dev/reference/react/useSyncExternalStore). No Zustand, no signals package — just TypeScript and React.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-2563eb?style=flat-square)](LICENSE)
-[![React 19](https://img.shields.io/badge/React-19-2563eb?style=flat-square)](https://react.dev/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-ccff00?style=flat-square)](LICENSE)
+[![React 19](https://img.shields.io/badge/React-19-ccff00?style=flat-square)](https://react.dev/)
+[![Starter](https://img.shields.io/badge/starter-pure_react_19-ccff00?style=flat-square)](https://github.com/briancrabtree-me/pure-react-19-vanilla-starter)
+[![Tokens](https://img.shields.io/badge/css-vanilla_css_tokens-ccff00?style=flat-square)](https://github.com/briancrabtree-me/vanilla-css-tokens)
 
 **[snippet-library](https://github.com/briancrabtree-me/snippet-library)** · **[pure-react-19-vanilla-starter](https://github.com/briancrabtree-me/pure-react-19-vanilla-starter)** · **[vanilla-css-tokens](https://github.com/briancrabtree-me/vanilla-css-tokens)**
 
